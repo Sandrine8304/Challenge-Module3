@@ -1,0 +1,175 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 40px; 
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-left{
+  display: inline-block;
+  margin: 0 0 0 20px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.build {
+  width: 730px;
+  margin: 0 auto; 
+}
+
+.col {
+  float: right;
+}
+
+.btn-header {
+  color: white;
+  background: rgb(240, 146, 51);
+  border-radius: 10px;
+  border: none;
+}
+
+.header {
+  background: rgb(32, 101, 136);
+  padding-bottom: 50px;
+}
+
+.col-2 {
+  float: left;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.npm {
+  display: inline-block;
+  width: 150px;
+  margin: 5px 0;
+}
+
+.barre {
+  display: inline-block;
+  width: 1240px;
+  height: 40px;
+  background: rgb(31, 82, 111);
+  margin: 5px;
+}
+
+.loupe {
+  margin: 5px;
+  display: inline-block;
+  padding: 0;
+  width: 40px;
+  height: 40px;
+  background: rgb(31, 82, 111);
+ }
+
+#btn {
+  border:none;
+	background-image:url (https://www.testapic.com/wp-content/uploads/1492204297_search.png);
+	background-repeat:no-repeat;
+	background-color: transparent;
+	background-position:center;
+}
+
+.bear {
+  display: inline-block;
+  width: 50px;
+}
+
+.aside-barre {
+  display: inline-block;
+  margin
+  background: rgb(32, 101, 136);
+}
+
+.box {
+  margin: 5px;
+  padding-top: 12px; 
+}
+
+.collab {
+  padding-right: 300px;
+  padding-top: 30px;
+  margin: 0 auto;
+  color: white;
+}
+
+#collab-img {
+  width: 450px;
+  padding-left: 350px;
+}
+
+#collab-section {
+  background: rgb(39, 53, 71);
+  padding: 50px 0;
+}
+
+.btn-collab {
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background: rgb(203, 56, 55);
+}
+
+.forklift-img {
+  background-image: url(http://free-pictures-hosting.org/upload/2019-08-02-22-47-57-893243-forklift.svg);
+  background-size: cover;
+  height: 350px;
+  padding-top: 50px;
+  position: relative;
+}
+
+#forklift-content {
+  position: absolute;
+  padding: 75px 150px;
+  width: 300px;
+}
+
+#forklift-section {
+  position: relative;
+  color: white;
+}
+
+.btn-forklift {
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background: rgb(49, 68, 88);
+}
+
+.center-div {
+  margin: 0 auto;
+  text-align: center;
+  background: white;
+}
+
+.content-section3 {
+  float: left;
+  width: 33%;
+  box-sixing: content-box;
+  color: rgb(135, 145, 156);
+}
+
+#font-h2 {
+  color: rgb(83, 88, 98);
+}
+
+.link {
+  color: rgb(208, 74, 73);
+}
