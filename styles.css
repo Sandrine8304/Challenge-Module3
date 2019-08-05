@@ -28,8 +28,8 @@ nav a {
 }
 
 .build {
-  width: 730px;
-  margin: 0 auto; 
+  width: 630px;
+  margin: 50px auto; 
 }
 
 .col {
@@ -56,63 +56,56 @@ nav a {
   clear: both;
 }
 
+.conteneur {
+  padding-top: 5px;
+  width: auto;
+  height: 40px;
+}
+
 .npm {
   display: inline-block;
-  width: 150px;
-  margin: 5px 0;
+  width: 80px;
+  height: 40px;
+  margin-left: 20px;
 }
 
 .barre {
   display: inline-block;
-  width: 1240px;
+  margin-left: 20px; 
+  width: 900px;
   height: 40px;
   background: rgb(31, 82, 111);
-  margin: 5px;
 }
 
 .loupe {
-  margin: 5px;
   display: inline-block;
-  padding: 0;
   width: 40px;
   height: 40px;
-  background: rgb(31, 82, 111);
- }
-
-#btn {
-  border:none;
-	background-image:url (https://www.testapic.com/wp-content/uploads/1492204297_search.png);
-	background-repeat:no-repeat;
-	background-color: transparent;
-	background-position:center;
+  background: transparent;
 }
 
 .bear {
   display: inline-block;
-  width: 50px;
-}
-
-.aside-barre {
-  display: inline-block;
-  margin
-  background: rgb(32, 101, 136);
+  width: 40px;
+  height: 40px;
 }
 
 .box {
-  margin: 5px;
-  padding-top: 12px; 
+  padding-top: 12px;
+  margin-left: 20px;
 }
 
 .collab {
-  padding-right: 300px;
+  float: left;
+  padding-left: 80px;
   padding-top: 30px;
-  margin: 0 auto;
   color: white;
 }
 
 #collab-img {
+  float: left;
   width: 450px;
-  padding-left: 350px;
+  margin-left: 300px;
 }
 
 #collab-section {
@@ -137,7 +130,7 @@ nav a {
 
 #forklift-content {
   position: absolute;
-  padding: 75px 150px;
+  margin: 75px 250px;
   width: 300px;
 }
 
